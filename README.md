@@ -17,7 +17,7 @@ A responsive Instagram login page UI built with HTML and CSS only.
 
 
 ## 🚀 Live Demo
-[Click here to view](https://dipika1111-hub.github.io/instagram-login-html-css/)
+[Click here to view](https://dipika1111-hub.github.io/Instagram-Login-HTML-CSS/)
 
 
 ## 📂 How to Run
