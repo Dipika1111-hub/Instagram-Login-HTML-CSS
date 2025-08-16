@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background:black;
+}
+#heading{
+  
+   width: 490px;
+margin: 50px auto;
+    border: 1px solid #333333;
+padding: 10px;
+text-align: center;
+}
+
+
+header h1{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    color: white;
+    margin: 40px 10px;
+    
+}
+ input{
+    padding: 10px;
+    display: block;
+    margin: 25px auto;
+    border: 2px solid #333333;
+    width: 250px;
+    background-color: black;
+    color: white;
+}
+button{
+    padding:   10px;
+    margin: 20px auto;
+    border: 1px solid #333333;
+    width: 250px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    background-color: blue;
+}
+#gap{
+    color: white;
+    margin: 15px 0;
+  display: flex;
+  justify-content: center;
+ align-items: center;
+ gap: 20px;
+}
+.line{
+    height: 1px;
+    background-color:#333333;
+     flex:1;
+}
+#or{
+    color: wheat;
+    white-space: nowrap;
+}
+
+#fb_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#fb_icon i{
+    font-size: 25px;
+    color:  blue;
+}
+#fb_icon a{
+text-decoration: none;
+color: blue;
+}
+
+#forgot{
+    margin-top: 30px;
+}
+
+
+
+#forgot a{
+   
+    text-decoration: none;
+    color: white;
+}
+#forgot:hover a{
+    text-decoration: underline;
+}
+
+article{
+      width: 490px;
+margin: 50px auto;
+    border: 1px solid #333333;
+padding: 10px;
+display: flex;
+justify-content: center;
+gap: 10px;
+
+}
+#normal_text{
+    color: white;
+}
+article a{
+    text-decoration: none;
+    color: blue;
+    
+}
+
+
+aside a{
+    text-decoration: none;
+    color: white;
+ 
+}
+aside a:hover{
+    text-decoration: underline;
+}
+ nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+footer p{
+    color: #A8A8A8;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+ #lang{
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+option{
+    color: white;
+}
+nav a{
+    color: #A8A8A8;
+}
